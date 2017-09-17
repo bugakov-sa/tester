@@ -4,4 +4,4 @@ gradle/
 out/
 gradlew
 gradlew.bat
-src/test/
+tester.iml
